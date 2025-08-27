@@ -1,7 +1,18 @@
 # CertiMint - Academic Certificate NFT Platform
-
+### 🏷️ **Project Information**
+- **Project Name**: CertiMint-Engine
+- **Project Description**:
 **CertiMint** is a comprehensive blockchain-based platform that validates academic assignments using AI-powered analysis and mints verified certificates as NFTs. The platform combines advanced plagiarism detection, AI-generated content detection, and subject relevance validation with blockchain technology to create tamper-proof academic certificates.
 
+### 👥 **Team Information**
+- **Team Name**: DevGeeks
+- **Team Members**: 
+  - sambhranta ghosh
+
+  ### **Track Specification:**
+  - [x] **AI** - Build with GenAI, ML, NLP, or vision to solve real-world problems — from local language models to AI copilots.
+  - [x] **Web3 & Decentralization** - Use blockchain, smart contracts, or   decentralized identity to build trustless, user-owned systems.
+  - [x] **EdTech & Learning** - AI tutors, gamified learning, upskilling tools — build  for India's next generation of learners.
 ## 🎥 Demo
 
 https://github.com/user-attachments/assets/9118c6e1-07c9-4d78-b6a2-9eeec751d131
