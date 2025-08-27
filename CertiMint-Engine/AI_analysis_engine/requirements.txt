@@ -1,0 +1,14 @@
+sentence-transformers
+scikit-learn
+numpy
+torch
+transformers
+pytesseract
+Pillow
+pdf2image
+opencv-python
+requests
+beautifulsoup4
+groq
+pymongo
+python-dotenv
